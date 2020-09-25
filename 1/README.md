@@ -1,4 +1,6 @@
-# 初始化package.json
+#
+
+## 初始化package.json
 ### cnpm init -y
 
 ## 安装 webpack 和 webpack-cli 到开发环境
@@ -22,3 +24,7 @@
 
 ## 自动编译打包
 ### npm install webpack-dev-server --save-dev
+
+引用：
+https://segmentfault.com/a/1190000021464216
+https://segmentfault.com/a/1190000021492350
